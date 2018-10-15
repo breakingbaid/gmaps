@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/267bde7720536f921d00c8c322ec2a3f3f918f0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6af3c0ec77d4af005bc7b09f664e4f0ee88fc64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c608673afaff00414b27be494b7fd7063ec5f208/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/2a3484e08d77a8d94db04c31c14bb34715fba8d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc500bdebec28aa61b84d8ae0f0fb417956cf0f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/1a989d4020b9fab4e66a9b8a53c3e05c784cf6f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6474c9393aecc6b2320889717442c3cb3e267423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/ab363237b60b8aae73c012681b827c06cc4fb753/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_398fa9b980eefd35022297b354130570e390cc58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/626d3146bafb0c204b501537abaae96073f716be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75afa79b6fa2021205584d5b1a984f17f839a14f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/08180d524c1386927b549f8892d6fbbda1670e95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb3db33b81af6632013bbb9de135958ed0e754c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/4cb7919c8bb9d230cec03384851ccf493d353be2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fc04a2d21d3c67e981d77a04bb71ce15aaeae74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/c002414ef07aa68311a82eee143da204d6d43aed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_691541287f1e8336b24db7a5efd5b24950a76df8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840703817a644a2c2871f59f6e601ff9876b7620">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d6de3de21f145d972d16a09fa47db1ee8c236982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/b4387baf0a37a740404e1b5007e3b7f17a56aa27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_499eaddaf323a0163a241ac4431ad94d182d7e60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/79d57830bb6629eea421215f401c04bf6a19c7ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50583bc005c195cf7cd018ce47231f881cf18937/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/10d03272611bc21d969062aef1d41a7d744b07fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2d5fcc9a4a414f536ae8cb65203afa6949c0472/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/afe64fe7d79fbbefb141f82763e9e1d07824029e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7eb3351691476001306ff89d11f96347d587d8c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/64583f53f476f19610252d8e2808a8dc61593e57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bcee6b6a78d7363b37708ed5709bb1708838167/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_59140ae057948347a8886c84ca697d151b6701b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dhanyabaid/.android/build-cache/a7db9112d8ea790be58d09e0ba3a93b8896d02e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/dhanyabaid/Desktop/How-to-find-location-and-direction-using-android-google-map/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e989f22383acb59687877ceb275cb326af55aeb1/classes.dex" />
+    </item>
+
+</items>
